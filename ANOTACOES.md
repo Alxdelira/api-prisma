@@ -1,3 +1,16 @@
+<div align="center">
+ <img 
+      alt="Project programing languages count" 
+      src="https://www.prisma.io/docs/img/logo-white.svg"
+      width="400px"
+    >  
+    </br>
+    </br>
+    </br>
+    </br>
+
+</div> 
+
 # Anotações referente ao ORM PRISMA 
 
 ### Instalar o PRISMA nas dependências de desenvolvimento
@@ -40,4 +53,12 @@ npx prisma migrate dev --name init
 
 # O Prisma Já cria os relacionamentos que foram descristos nas models juntamente com o arquivo .sql com as linhas de codigos da criação das tabelas
 ```
-
+  </br>
+    </br>
+    </br>
+    </br>
+<p align="center">
+  <a href="https://portfolioalxdelira.vercel.app/" target="_blank">
+    <img align="center" src="src/assets/footer.png" alt="banner"/>
+  </a>
+</p>
