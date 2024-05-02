@@ -16,7 +16,7 @@ npx prisma init
 
 
  - ``schema.prisma``
-```json
+```prisma
 generator client {
   provider = "prisma-client-js"
 }
@@ -28,7 +28,7 @@ datasource db {
 ```
 
  - ``.env``
-```json
+```prisma
 //  Variavel de ambiente para conexão com o BD
 DATABASE_URL="postgresql://johndoe:randompassword@localhost:5432/mydb?schema=public"
 ```
